@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
     <a href="https://twitter.com/mgnthierry" target="blank">My twitter</a> -
-    <a href="https://twitter.com/f_arthr">My linkedin</a> -
+    <a href="https://linkedin.com/in/thierry-maignan">My linkedin</a> -
     <a href="https://discord.com/users/510591812046553113">My discord</a>
   </samp>
 </p>
