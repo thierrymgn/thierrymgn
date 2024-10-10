@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Thierry Maignan</h3>
-<p align="center">a frontend developer and student at <a href="https://www.hetic.net">HETIC</a>.</p>
+<p align="center">a frontend developer and student at <a href="https://www.eemi.com/">EEMI</a>.</p>
 
 <p align="center">
   <samp>
